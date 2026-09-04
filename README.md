@@ -15,7 +15,7 @@
 - **[hipaa-de-id](https://github.com/kbadinger/hipaa-de-id)** — HIPAA Safe Harbor de-identification (text, CSV, JSON, FHIR R4, HL7v2)
 - **[DebatePanel](https://github.com/kbadinger/DebatePanel)** — multi-LLM debate engine for high-stakes decisions
 - **[ai-agent-audit](https://github.com/kbadinger/ai-agent-audit)** — security audit daemon for AI-agent installations
-- **[qtown](https://github.com/kbadinger/qtown)** — polyglot distributed system (12 languages, 9 services, ~101K LOC) driven by an autonomous multi-agent AI dev loop
+- **[qtown](https://github.com/kbadinger/qtown)** — polyglot distributed system (12 languages, 8 services, ~101K LOC) driven by an autonomous multi-agent AI dev loop
 
 ### Track record
-Architected and ran the U.S. industry-standard nurse-aide credentialing platform — 1M+ certifications across 35 states, still in production. Lead Architect for Fortune 1000 financial systems. Bootstrapped to a successful exit.
+Architected and ran the U.S. industry-standard nurse-aide credentialing platform — 1M+ certifications across 35 states, two decades in production. Lead Architect for Fortune 1000 financial systems. Bootstrapped to a successful exit.
